@@ -21,3 +21,5 @@
 [Translation of number systems (from any to any)]() : [code](https://github.com/decadanse/algorithms/blob/main/translation%20of%20number%20systems.cpp)
 
 [Approximate calculation of the value А=lg(x)](https://github.com/decadanse/algorithms/blob/main/VIEW%20approximate%20A%20%3D%20log%20(x).md) : [code](https://github.com/decadanse/algorithms/blob/main/approximate%20A%20%3D%20log%20(x).cpp)
+
+[Leonardo Fibonacci problem (how much rabbits will be from 1 pair in a year if each one ...)]() : [code](https://github.com/decadanse/algorithms/blob/main/Leonardo%20Fibonacci%20problem.cpp)
