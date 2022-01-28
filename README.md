@@ -14,4 +14,6 @@
 
 [Find value of the function given by the series; with DLL](https://github.com/decadanse/algorithms/blob/main/dll/VIEW.md) : [code](https://github.com/decadanse/algorithms/tree/main/dll)
 
+[Full names from file. Extract right words from each word pair](https://github.com/decadanse/algorithms/blob/main/VIEW%20FULL%20NAMES%20from%20file.%20Extract%20right%20words%20from%20each%20word%20pair.md) : [code](https://github.com/decadanse/algorithms/blob/main/FULL%20NAMES%20from%20file.%20Extract%20right%20words%20from%20each%20word%20pair.cpp)
 
+[Division of bacteria](https://github.com/decadanse/algorithms/blob/main/VIEW%20division%20of%20bacteria.md) : [code](https://github.com/decadanse/algorithms/blob/main/division%20of%20bacteria.cpp)
