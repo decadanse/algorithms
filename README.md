@@ -1,7 +1,7 @@
 # algorithms
 ### some links with added visual work example
 
-[Double spiral matrix sort (Bubble, Inserts, Collection, Fast, Shell)](https://github.com/decadanse/algorithms/blob/main/sort%20matrix%20output.md) : [code](https://github.com/decadanse/algorithms/blob/main/sort%20matrix.cpp)
+[Double spiral matrix sort (Bubble, Inserts, Collection, Fast, Shell)](https://github.com/decadanse/algorithms/blob/main/VIEW%20sort%20matrix.md) : [code](https://github.com/decadanse/algorithms/blob/main/sort%20matrix.cpp)
 
 [Hash search](https://github.com/decadanse/algorithms/blob/main/VIEW%20hash%20search.md) : [code](https://github.com/decadanse/algorithms/blob/main/hash%20search.cpp)
 
