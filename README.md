@@ -1,6 +1,5 @@
 # algorithms
-## some links with added visual work example
-### those are NOT ALL programms in this repo
+### some links with added visual work example
 
 [Double spiral matrix sort (Bubble, Inserts, Collection, Fast, Shell)](https://github.com/decadanse/algorithms/blob/main/sort%20matrix%20output.md) : [code](https://github.com/decadanse/algorithms/blob/main/sort%20matrix.cpp)
 
